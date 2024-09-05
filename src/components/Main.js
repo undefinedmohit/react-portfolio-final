@@ -145,8 +145,8 @@ const Main = () => {
                 <span>click here</span>
             </Center>
 
-            <Contact target="_blank" href="mailto:codebucks27@gmail.com">
-                <motion.h2
+            <Contact target="_blank" href="mailto:mohit24yadav24@gmail.com">
+                <motion.h1
                 initial={{
                     y:-200,
                     transition: { type:'spring', duration: 1.5, delay:1}
@@ -160,7 +160,7 @@ const Main = () => {
                 
                 >
                     Say hi..
-                </motion.h2>
+                </motion.h1>
             </Contact>
             <BLOG to="/blog">
                 <motion.h2
